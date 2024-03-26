@@ -1,8 +1,7 @@
 Hi, I'm Hope Shirley! 👋
 
 ## About Me
-
-Welcome to my GitHub! I'm passionate about crafting seamless web experiences and continuously improving my skills in the realm of JavaScript development and web design. My journey in this ever-evolving tech world is driven by a desire to merge creativity with functionality, ensuring user-centric designs.
+Hey there, welcome to my GitHub! People often call me a digital dynamo - always fluid and eager to learn. I love building stuff, you know, playing around with code to achieve something beautiful. Feel free to check out my works below.
 
 ## Skills & Expertise
 
